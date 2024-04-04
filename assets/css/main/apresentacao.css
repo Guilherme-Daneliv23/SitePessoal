@@ -1,0 +1,18 @@
+.apresentação   {
+    margin: 30px;
+}
+
+.apresentação__titulo   {
+    font-size: 28px;
+    padding-bottom: 20px;
+    color: #0E8D94;
+    font-weight: bold;
+}
+
+.apresentação__paragrafo    {
+    padding-bottom: 15px;
+}
+
+.apresentacao__img  {
+    width: 100%;
+}
