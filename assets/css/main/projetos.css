@@ -7,4 +7,47 @@
     font-size: 28px;
     color: #0E8D94;
     font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.projeto__display   {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projetos--card {
+    width: 230px;
+    height: 330px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    
+    border-radius: 0px 0px 10px 10px;
+    
+}
+
+.projetos--card__imagem {
+    width: 100%;
+    height: 50%;
+    margin: 0;
+}
+
+.projetos--card__paragrafo  {
+    width: 100%;
+    height: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #79C3AA;
+
+}
+
+.projetos--card__botao  {
+    width: 100%;
+    height: 15%;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #0E8D94;
+    color: #FDFDFD;
 }

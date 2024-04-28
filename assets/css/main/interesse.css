@@ -1,0 +1,30 @@
+.interesse  {
+    margin: 30px;
+}
+
+.interesse__titulo {
+    text-align: center;
+    font-size: 28px;
+    color: #0E8D94;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.interesse__display{
+    display: flex;
+    flex-direction: column;
+}
+
+.interesse--card{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0px 20px 0px;
+   
+}
+
+.interesse--card__imagem {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 20px;
+}

@@ -3,6 +3,19 @@ p   {
     color: #434D53;
 }
 
+button  {
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+}
+
+a{
+    font-family: "Lato", sans-serif;
+}
+
 h1, h2, h3, h4{
     font-family: "Montserrat", sans-serif;
+}
+
+footer  {
+    background-color: #434D53;
 }
